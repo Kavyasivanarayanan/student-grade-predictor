@@ -1,1 +1,1 @@
-# student-grade-predictor
+# mini machine learning projects
